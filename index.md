@@ -1,86 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Parth Jansari's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Parth Jansari
+Frontend/Flutter Developer, JS/Dart/Design enthusiast, UI Designer,Gamer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:parthjasnari@outlook.com">parthjasnari@outlook.com</a>
+| <a href="https://github.com/parth181195">Github</a>
+| <a href="https://twitter.com/jansariparth">Twitter</a>
+| <a href="https://medium.com/@parth_jansari">Medium</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Carfting awesome looking apps with angular/flutter <a href='https://www.stimulusco.com/'>@stimulusco</a> and managing <a href='https://gdggandhinagar.org/'>GDG Gandhinagr</a> 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Angular, Flutter, JS, html, css/sass, Canvas, Dart, Adobe XD, Public Speaking
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+User Experience, Generative Art, Rendering, .
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2013`
+__S.S. HighSchool__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013-2019`
+__S.V.B.I.T__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- B.E(E.C)
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Public Speaking
+ - Devfest 19 Gdg Bangalore ,Houdini and the paint API
+ - Devfest 19 Gdg Gandhinagar,Houdini and the paint API
+ - Devfest 19 Gdg rajkot, introduction to flutter
+ - Devfest 18 Gdg Baroda, deep dive in Flutter
+ - Devfest 18, Gdg Ahmedabad, Flutter : how to do that http call thingy?
+ - Gdg Ahmedabad, What the Flutter?
+ - Devfest 18, Gdg Gandhinagar, Flutter Animation: motion awakens
+ - Devfest 17, Gdg Ahmedabad, x platform apps with flutter
+ - Devfest 17, Gdg Gandhinagar, x platform apps with flutter
+ - Christ University, Banglore, Introduction to angular
+ - Ld engineering college GIC, ahmedabad,introduction to python
+ - ITM, Vadodara, introduction to python
+ - Devfest 16, Gdg Gandhinagar, Chatbots with api.ai
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Experience
 
-- Warden
-- Minted coins
+`NOV2015 - SEPT2016`
+__The 1947__  Branding Consultant
+|    Gandhinagar, Gujarat
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+`OCT2016 - MAR2017`
+__Lend Cypher__ UI/UX Designer
+|    Remote
+`MAR2017 - NOV2017`
+
+__Careerbuddy.io__ UI/UX Designer, Forntend Developer
+| Remote
+
+`NOV2017 - FEB2018`
+__Lend Cypher/ Corridor Funds__ Forntend Developer
+|    Remote
+
+`MAR2018 - AUG2019`
+__zypher.tech__ Co-Founder, Forntend Developer
+|    Gandhinagr, Gujarat
+
+`OCT2019 - Present`
+__StimulusCo__ SR.Forntend Developer
+|    Ahemdabad, Gujarat
+
 
 
 
